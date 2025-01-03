@@ -5,7 +5,7 @@
 This project analyzes IMDb's top movies to uncover interesting trends and insights. It involves data cleaning, querying, exploratory data analysis (EDA), and visualization using Power BI and Python.
 
 ## Power BI Dashboard Overview
-![Dashboard Screenshot](visualizations/genre_network_graph_threshold_15.png)
+![Dashboard Screenshot](dashboard/imdb_top_movies_project.png)
 
 ## Key Features
 
