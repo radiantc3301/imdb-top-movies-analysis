@@ -19,6 +19,7 @@ This project analyzes IMDb's top movies to uncover interesting trends and insigh
 
 ## File Structure
 
+```
 imdb-top-movies-analysis/
 ├── data/
 │   ├── cleaned dataset.csv      # Cleaned dataset 
@@ -38,6 +39,7 @@ imdb-top-movies-analysis/
 ├── dashboard/
 │   ├── imdb_top_movies_project - Power BI.pbix  # Power BI dashboard file
 │   └── powerBI_dashboard.pdf   # PDF of the dashboard
+```
 
 ## How to Use
 1. Clone this repository:
